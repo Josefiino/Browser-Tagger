@@ -1,5 +1,6 @@
 {
-	"note_tags" : "Tags",
 	"shortcut_tags" : "Shift+O",
-	"tag_to_add" : "Test_tag"
+	"tag_to_add" : "Test_tag",
+	"shortcut_tags_2" : "Shift+P",
+	"tag_to_add_2" : "Test_tag_2"
 }
